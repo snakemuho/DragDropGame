@@ -1,6 +1,8 @@
-![image](https://github.com/user-attachments/assets/08d10133-dd2c-46fd-8adf-624b1fdefb22)# Drag Drop Game
+# Drag Drop Game
 
 A prototype of a game where you can pick up items and drop them around the level.
+
+![image](https://github.com/user-attachments/assets/08d10133-dd2c-46fd-8adf-624b1fdefb22)
 
 ---
 
